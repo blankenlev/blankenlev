@@ -2,7 +2,7 @@
 
 ### Levi Blankenheim
 
-I have a passion for assembling computers, both for personal projects and for others. My proficiency in Javascript and Python is complemented by five years of dedicated study in Java. I am keen to apply my technical skills towards developing innovative solutions for legacy software systems.
+I have a passion for assembling computers, both for personal projects and for others. My proficiency in Javascript and Python is complemented by four years of study in Java. I am keen to apply my technical skills towards developing innovative solutions for legacy software systems.
 
 </p>
 
