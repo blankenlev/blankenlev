@@ -31,7 +31,7 @@ I have a passion for assembling computers, both for personal projects and for ot
 ### Website
 
 <a href="https://leviblankenheim.com" target="_blank" rel="noreferrer">
-<img src="./webLogo.png" height="50" alt="leviblankenheim.com" /></a>
+<img src="webLogo.png" height="40" alt="leviblankenheim.com" /></a>
 
 ##
 
