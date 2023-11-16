@@ -31,7 +31,7 @@ I have a passion for assembling computers, both for personal projects and for ot
 ### Website
 
 <a href="https://leviblankenheim.com" target="_blank" rel="noreferrer">
-<img src="webIcon.png" height="40" alt="leviblankenheim.com" /></a>
+<img src="webIcon.png" height="36" width="36" alt="leviblankenheim.com" /></a>
 
 ##
 
@@ -42,7 +42,7 @@ I have a passion for assembling computers, both for personal projects and for ot
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" />
     </picture>
     </a>
     <b>
@@ -53,7 +53,7 @@ I have a passion for assembling computers, both for personal projects and for ot
 ### Work Experience
 
 <a href="https://www.thesilverlining.com/" target="_blank">
-<img src="WB.png" height="40" /></a>
+<img src="WB.png" height="36" width="36" /></a>
 
 ##
 
@@ -69,15 +69,17 @@ I have a passion for assembling computers, both for personal projects and for ot
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.php.net/" rel="nofollow">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"></a>
 
 ##### FRONTEND
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="40" height="40" alt="Material UI" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
 ##### DATABASE
 
