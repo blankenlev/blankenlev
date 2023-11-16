@@ -18,7 +18,7 @@ I have a passion for assembling computers, both for personal projects and for ot
 
 🧠  Currently Learning: React
 
-✉️  Reach Me: [leviblankenheim@gmail.com](mailto:leviblankenheim@gmail.com)
+✉️  Reach Me: [leviblankenheim@gmail.com](mailto:blankenheimlevi@gmail.com)
 
 🕸   Website: [leviblankenheim.com](leviblankenheim.com)
 
