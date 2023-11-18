@@ -20,7 +20,7 @@ I have a passion for assembling computers, both for personal projects and for ot
 
 ✉️  Reach Me: [blankenheimlevi@gmail.com](mailto:blankenheimlevi@gmail.com)
 
-🕸   Website: [leviblankenheim.com](leviblankenheim.com)
+🕸   Website: [leviblankenheim.com](https://www.leviblankenheim.com)
 
 🌍  Location: Based in Madison, WI
 
